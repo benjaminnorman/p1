@@ -37,25 +37,25 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">		
 		<li class="dropdown">
-          <a href="p2.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 2 <span class="caret"></span></a>
+          <a href="http://p2.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 2 <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="p2.benorman.com">Site</a></li>
+            <li><a href="http://p2.benorman.com">Site</a></li>
             <li><a href="https://github.com/benjaminnorman/p2">GitHub Repository</a></li>
           </ul>
         </li>
 		
 		<li class="dropdown">
-          <a href="p3.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 3 <span class="caret"></span></a>
+          <a href="http://p3.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 3 <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="http://www.p3.benorman.com">Site</a></li>
+            <li><a href="http://p3.benorman.com">Site</a></li>
             <li><a href="https://github.com/benjaminnorman/p3">GitHub Repository</a></li>
           </ul>
         </li>
 
 		<li class="dropdown">
-          <a href="p4.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 4 <span class="caret"></span></a>
+          <a href="http://p4.benorman.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 4 <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="http://www.p4.benorman.com">Site</a></li>
+            <li><a href="http://p4.benorman.com">Site</a></li>
             <li><a href="https://github.com/benjaminnorman/p4">GitHub Repository</a></li>
           </ul>
         </li>
