@@ -10,7 +10,7 @@ I fixed the syntax error and now everything is working properly.
 
 ###Live URL
 The live Project one can be found here: 
-[Live Project 1](p1.benorman.com)
+[Live Project 1](http://p1.benorman.com)
 
 ###Other Details
 On this page, there is a dropdown element for each of the 3 projects that are not P1.
